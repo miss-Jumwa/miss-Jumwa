@@ -14,7 +14,11 @@ I enjoy using data to understand business problems, identify patterns, and commu
 Python · SQL · Excel · Power BI · Pandas · Data Visualisation · Machine Learning
 
 ### Featured Projects
-More projects coming soon! I'm currently improving my existing data analysis projects and documenting my work.
+
+### Projects
+
+I'm currently organising and documenting my data analysis projects. I'll feature my completed projects here as they are ready to share.
+
 
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/)
